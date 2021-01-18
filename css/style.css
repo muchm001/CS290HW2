@@ -1,0 +1,57 @@
+table, th, td {
+  border: 1px solid black;
+}
+
+h5 {
+  width: 70px;
+  margin-top: -10px;
+  margin-left: 5px;
+  background: white;
+}
+
+#t1 tr:nth-child(even) {
+  background-color: #D73F09;
+  color: white;
+
+}
+
+#t1 tr:nth-child(odd) {
+  background-color: #A7ACA2;
+  color: black;
+}
+
+.tr2 {
+  background-color: white;
+}
+
+#t1 th {
+  color: white;
+  background-color: black;
+}
+
+.outer-content {
+  margin: 20px;
+  width: 75%;
+  padding: 20px;
+  background-color: pink;
+}
+
+.inner-content {
+  margin: auto;
+  width: 75%;
+  text-align: center;
+  background-color: cyan;
+}
+
+.div1 {
+  border: 1px solid black;
+  margin-top: 30px;
+  text-align: justify;
+}
+
+.div2 {
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+  text-align: justify;
+}
